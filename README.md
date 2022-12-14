@@ -17,6 +17,10 @@ Skills:
 - Min.IO
 - Databricks
 - PySpark
+- AirByte
+- Airflow
+- Dbt
+- Snowflake
 
 Espero ter me apresentado de maneira Clara! Existem alguns certificados de alguns cursos da Alura que concluí aqui abaixo no perfil do linkedin.
 
