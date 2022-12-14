@@ -4,7 +4,7 @@ Minha trajetória no mundo dos dados começou em 2015, com minha primeira experi
 
 Meu portfólio está no github, esta em construção, mas existem dois projetos bem interessantes. Um sobre a análise de liberação de crédito de um banco utilizando algoritmos de machine learning e outro projeto utilizando uma base do censo. Dois projetos que me orgulho muito e deu bastante trabalho pra fazer, se quiser conferir, os projetos estão em Jupyter Notebook e se quiser roda-lo em um Notebook fique a vontade! :D
 
-- Projeto em andamento: é a criação de um data lake diretamente utilizando AWS S3 e utilizar clusters da AWS EMR para o processamento dos dados.
+- Projeto em andamento: é a criação de um pipeline de dados utilizando tecnologias Google, juntamente com Terraform.
 
 Skills:
 - Python
