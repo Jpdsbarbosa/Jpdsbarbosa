@@ -1,29 +1,20 @@
-Olá! Me chamo João Pedro Barbosa, tenho 26 anos, natural da cidade de pelotas.
+Olá! Me chamo João Pedro Barbosa, tenho 27 anos e sou natural da cidade de Pelotas.
 
-Minha trajetória no mundo dos dados começou em 2015, com minha primeira experiência em tecnologia quando ingressei na graduação de Engenharia de Computação na Universidade Federal de Pelotas. Diante de algumas decepções com o curso, acabei trancando e migrei para o mundo do mercado financeiro onde comecei a trabalhar na MSC Consultoria Financeira, na cidade de Pelotas, trabalhando diretamente com carteira de ações de clientes e mercado futuro com a própria carteira da empresa. Gratidão pela oportunidade que a empresa me deu, me fazendo adquirir muito conhecimento no mundo dos investimentos, em virtude da expertise do meu gestor. Porém voltando às minhas primeiras experiências em T.I., descobri a área de dados e me apaixonei pelas possibilidades do que pode ser feito com os dados e me aprofundei e desde então sou um estudante ferrenho da área de dados, mais especificamente na área de engenharia de dados, na construção de todo pipeline de dados, para que cientistas de dados, analistas de dados, engenheiros de machine learning, dentre outros consigam usa-los da melhor maneira possível. Atualmente estou me aprofundando em tecnologias na nuvem, como amazon S3, Databricks, EC2, dentre outras, para me adaptar ao mercado e criar minhas soluções da melhor maneira possivel. Desde então estou a procura de uma oportunidade de entrar no mercado de trabalho de dados e conseguir aprender e ensinar tudo que eu possa. Por fim, não menos importante, em junho de 2022 finalizei meu tecnólogo em Ciência de Dados, pela universidade Cruzeiro do Sul.
+Minha jornada no mundo dos dados começou em 2015, quando ingressei na graduação em Engenharia de Computação na Universidade Federal de Pelotas. Foi lá que descobri a área de dados e me apaixonei pelas possibilidades de análise e insights que podem ser obtidos a partir deles. Após trocar de curso para o curso de Ciência de dados e me formar em 2022. Além dos meus projetos pessoais, tive duas experiências profissionais relevantes:
 
-Meu portfólio está no github, esta em construção, mas existem dois projetos bem interessantes. Um sobre a análise de liberação de crédito de um banco utilizando algoritmos de machine learning e outro projeto utilizando uma base do censo. Dois projetos que me orgulho muito e deu bastante trabalho pra fazer, se quiser conferir, os projetos estão em Jupyter Notebook e se quiser roda-lo em um Notebook fique a vontade! :D
+1. Cigam Software de Gestão: Trabalhei como Engenheiro de Dados/Analista de Dados, onde participei da construção do DataWarehouse do setor de atendimento ao cliente. Minha função era garantir a qualidade e a disponibilidade dos dados, de modo que os gestores pudessem analisá-los de forma clara e objetiva. Isso me permitiu desenvolver habilidades em engenharia de dados, modelagem de dados, análise estatística.
 
-- Projeto em andamento: é a criação de um pipeline de dados utilizando tecnologias Google, juntamente com Terraform.
+2. Sott Alimentos: Atualmente, atuo como Analista/Cientista de Dados, responsável pela preparação dos dados vindos do ERP para análises estatísticas, gráficas e modelagem preditiva. Minha função é fornecer insights relevantes aos gestores, a fim de auxiliá-los nas tomadas de decisão estratégicas. Isso me permite aplicar conhecimentos em ciência de dados, machine learning e visualização de dados.
 
-Skills:
-- Python
-- Sql
-- Git
-- Excel
-- Power BI
-- Aficionado pelo mundo Linux
-- AWS S3, EMR e EC2
-- Min.IO
-- Databricks
-- PySpark
-- AirByte
-- Airflow
-- Dbt
-- Snowflake
+Minha paixão por dados e análise me motivou a me especializar ainda mais nessa área, buscando sempre novos desafios e aprendizados. Estou sempre aberto a novas oportunidades e desafios que me permitam crescer profissionalmente e colaborar para o sucesso das empresas em que atuo.
 
-Espero ter me apresentado de maneira Clara! Existem alguns certificados de alguns cursos da Alura que concluí aqui abaixo no perfil do linkedin.
+---
 
-https://www.linkedin.com/in/jo%C3%A3o-pedro-barbosa-375165166/
-
-Qualquer coisa pode me chamar no linkedin pra gente trocar uma ideia e aprender juntos!
+Habilidades:
+- Análise estatística
+- Modelagem preditiva
+- Integração de dados
+- SQL, Python, DBT, AWS S3, DataBricks, PySpark, GCP, Kondado, Alteryx
+- Comunicação efetiva
+- Pensamento crítico
+- Trabalho em equipe
