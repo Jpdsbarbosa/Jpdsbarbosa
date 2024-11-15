@@ -15,6 +15,3 @@ Habilidades:
 - Modelagem preditiva
 - Integração de dados
 - SQL, Python, DBT, AWS S3, DataBricks, PySpark, GCP, Kondado, Alteryx
-- Comunicação efetiva
-- Pensamento crítico
-- Trabalho em equipe
